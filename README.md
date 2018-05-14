@@ -1,4 +1,5 @@
-electron 打包
+electron
+官方文档: 
 
 1.electron-packager方式：
 
