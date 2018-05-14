@@ -4,7 +4,7 @@ electron  使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
 
 探索 Electron 的 API：https://github.com/electron/electron-api-demos
 
-快速开始项目：electron-quick-start
+# 快速开始项目：electron-quick-start
 # 克隆示例项目的仓库
 $ git clone https://github.com/electron/electron-quick-start
 
@@ -16,7 +16,7 @@ $ npm install && npm start
 
 
 
-探索electron和vue搭配开发：electron-vue
+# 探索electron和vue搭配开发：electron-vue
 初始项目地址：https://electron.org.cn/vue/index.html
 vue文档地址：https://cn.vuejs.org/v2/guide/installation.html
 # 安装 vue-cli 和 脚手架样板代码
