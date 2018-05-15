@@ -23,13 +23,13 @@
     <br/>
 </p>
 <pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://github.com/electron/electron-api-demos
 
-# 克隆示例项目的仓库
+
+#克隆示例项目的仓库
 $ git clone https://github.com/electron/electron-api-demos 
-# 进入这个仓库
+#进入这个仓库
 $ cd electron-api-demos
-# 安装依赖并运行
+#安装依赖并运行
 $ npm install &amp;&amp; npm start</pre>
 <p>
     <span style="font-size: 18px;"><br/></span>
@@ -44,13 +44,13 @@ $ npm install &amp;&amp; npm start</pre>
     <span style="font-size: 18px;"></span>
 </p>
 <pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://github.com/electron/electron-quick-start 
+ 
 
-# 克隆示例项目的仓库 
+#克隆示例项目的仓库 
 $ git clone https://github.com/electron/electron-quick-start
-# 进入这个仓库
+#进入这个仓库
 $ cd electron-quick-start
-# 安装依赖并运行
+#安装依赖并运行
 $ npm install &amp;&amp; npm start</pre>
 <p>
     <span style="font-size: 18px;"></span>
@@ -64,16 +64,14 @@ $ npm install &amp;&amp; npm start</pre>
 <p>
     <br/>
 </p>
-<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://electron.org.cn/vue/index.html
-https://simulatedgreg.gitbooks.io/electron-vue/cn/</pre>
-<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);"># 安装 vue-cli 和 脚手架样板代码
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档</pre>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#安装 vue-cli 和 脚手架样板代码
 $ npm install -g vue-cli
 $ vue init simulatedgreg/electron-vue my-project
-# 安装依赖并运行你的程序
+#安装依赖并运行你的程序
 $ cd my-project
 $ yarn # 或者 npm install
-$yarn run dev # 或者 npm run dev</pre>
+$ yarn run dev # 或者 npm run dev</pre>
 <p>
     <br/>
 </p>
@@ -87,12 +85,12 @@ $yarn run dev # 或者 npm run dev</pre>
     <br/>
 </p>
 <pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://github.com/electron-userland/electron-packager
+
 
 #安装
-# for use in npm scripts
+#for use in npm scripts
 $ npm install electron-packager --save-dev
-# for use from cli
+#for use from cli
 $ npm install electron-packager -g
 
 #打包命令
@@ -104,7 +102,7 @@ $ electron-packager &lt;sourcedir&gt; &lt;appname&gt; --platform=&lt;platform&gt
     electron-builder :
 </p>
 <pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://github.com/electron-userland/electron-builder 
+ 
 
 #安装
 $ yarn add electron-builder --dev || npm install electron-builder --save-dev
@@ -130,7 +128,7 @@ $ yarn add electron-builder --dev || npm install electron-builder --save-dev
     electron-forge：
 </p>
 <pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
-https://github.com/electron-userland/electron-forge
+
 
 #Note: Electron Forge requires Node 6 or above, plus git installed.
 $ npm install -g @electron-forge/cli
@@ -139,12 +137,27 @@ $ npm start
 
 #Alternatively, if you have a more recent version of npm or yarn, you can use npx, or yarn create.
 npx @electron-forge/cli init my-new-app
-# or
+#or
 yarn create electron-app my-new-app
-# then
+#then
 cd my-new-app
 npm start</pre>
+<h1 style="white-space: normal; box-sizing: border-box; margin: 24px 0px 16px; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid rgb(234, 236, 239); color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; text-align: center;">
+    <span style="font-size: 18px;">自动更新</span>
+</h1>
+<p>
+    autoUpdater：<br/>
+</p>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">#文档
+
+#参考案列</pre>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">https://segmentfault.com/a/1190000007616641</pre>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">https://segmentfault.com/a/1190000008287730</pre>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);">https://segmentfault.com/a/1190000012904543</pre>
+<pre style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; word-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: rgb(246, 248, 250); border-radius: 3px; word-break: normal; color: rgb(36, 41, 46);"> </pre>
 <p>
     <br/>
 </p>
-
+<p>
+    交流群 QQ&nbsp 374875782;
+</p>
